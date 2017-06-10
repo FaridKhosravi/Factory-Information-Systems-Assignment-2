@@ -1,4 +1,4 @@
-# FIS-assignment-2
+# Factory-Information-Systems-assignment-2
 During A1 you should have created an XML file that describes an order.
 
 For the A2, you have to create a mysql database. The database should have at least 3 tables: i) products, ii) orders and iii) customers. One customer may have several orders s/he has made. An order should contain at least one product. A product can be in three possible states - ordered, in_production, manufactured and shipped. 
