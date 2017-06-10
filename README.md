@@ -13,7 +13,3 @@ Using Node.js, create a web interface to the database. The interface should allo
 
 
 The tables should be populated by you in order to demonstrate requested queries. You can populate tables using directly SQL commands or allowing INSERT and UPDATE commands to be passed over the web interface to the database.
-
-
-
-The assignment can be done in the group of max 3 students.
